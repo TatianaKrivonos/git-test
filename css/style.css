@@ -1,0 +1,13 @@
+* {
+	box-sizing: border-box;
+}
+
+.page-header {
+	background-color: #ff0;
+}
+
+.page-header__inner {
+	display: flex;
+	max-width: 900px;
+	margin: auto;
+}
